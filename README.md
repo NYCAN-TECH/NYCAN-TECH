@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @NYCAN-TECH
-- 👀 I’m interested in ...TECH
-- 🌱 I’m currently learning ...Software engineering 
-- 💞️ I’m looking to collaborate on Python and software related projects 
-- 📫 How to reach me ...charleschidi20@gmail.com
+- 👋 Hi, I’m @NYCAN
+- 👀 I’m interested in ...building 
+- 📫 How to reach me ...Nycanweb3@gmail.com 
 
 <!---
 NYCAN-TECH/NYCAN-TECH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
